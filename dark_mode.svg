@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="592" viewBox="0 0 1080 592" font-family="Consolas, Menlo, monospace" font-size="13px">
+<rect x="0.5" y="0.5" width="1079" height="591" rx="10" fill="#0d1117" stroke="#30363d"/>
+<text x="25" y="40.0" fill="#8b949e" xml:space="preserve">                           =#-:</text>
+<text x="25" y="55.4" fill="#8b949e" xml:space="preserve">                  :.=@@@@@@@@@@@-</text>
+<text x="25" y="70.8" fill="#8b949e" xml:space="preserve">               *%@@@@@@@@@@@@@@@@@@*</text>
+<text x="25" y="86.3" fill="#8b949e" xml:space="preserve">             =@@@@@@@@@@@@@@@@@@@@@@@%</text>
+<text x="25" y="101.7" fill="#8b949e" xml:space="preserve">           :%@@@@@@@@@@@@@@@@@@@@@@@@@@@#:</text>
+<text x="25" y="117.1" fill="#8b949e" xml:space="preserve">          .@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="25" y="132.5" fill="#8b949e" xml:space="preserve">          @@@@@@@@@@@@@@@@@@@%*+=--=#%@@@@%</text>
+<text x="25" y="148.0" fill="#8b949e" xml:space="preserve">         -@@@@@#****++**+-::.  ...::-=#@@@@%</text>
+<text x="25" y="163.4" fill="#8b949e" xml:space="preserve">         .@@@@%*+==-:..          ..::--%@@@@:</text>
+<text x="25" y="178.8" fill="#8b949e" xml:space="preserve">          @@@@#+==-::...          ..::-+@@@@%</text>
+<text x="25" y="194.2" fill="#8b949e" xml:space="preserve">          +@@@#=----:..           ...::-%@@@@</text>
+<text x="25" y="209.7" fill="#8b949e" xml:space="preserve">          =@@@*====-:..            ...::#@@@#</text>
+<text x="25" y="225.1" fill="#8b949e" xml:space="preserve">          =@@#=+=++=--:         ..::::::=@@@.</text>
+<text x="25" y="240.5" fill="#8b949e" xml:space="preserve">           @@-==##%##%%#+-.  :=*%#****=:-@@%</text>
+<text x="25" y="255.9" fill="#8b949e" xml:space="preserve">          +@@---*%%%@%*###:  -**#@#**=:::@@=</text>
+<text x="25" y="271.4" fill="#8b949e" xml:space="preserve">          ##%--:=#%#@%:-**:  :--=%+=+:..:#=.</text>
+<text x="25" y="286.8" fill="#8b949e" xml:space="preserve">          =##--:----:::-+=.  .. .  .....:+-</text>
+<text x="25" y="302.2" fill="#8b949e" xml:space="preserve">           ##--::::....=+:    .       ..:=-</text>
+<text x="25" y="317.6" fill="#8b949e" xml:space="preserve">           -#+--::..  -=::.           ..:=.</text>
+<text x="25" y="333.1" fill="#8b949e" xml:space="preserve">            +%=-::.. .-=#####+:.      ..=*</text>
+<text x="25" y="348.5" fill="#8b949e" xml:space="preserve">             -%=-::.-#%@@@%%%%##=:    .:*</text>
+<text x="25" y="363.9" fill="#8b949e" xml:space="preserve">              #%*=--%@@@%#+==*#%%%:  .:*:</text>
+<text x="25" y="379.3" fill="#8b949e" xml:space="preserve">               %%##*%%#%%#**+**=*#-:=+*=</text>
+<text x="25" y="394.8" fill="#8b949e" xml:space="preserve">               .%@%@%#+**%@%#-::-##*###</text>
+<text x="25" y="410.2" fill="#8b949e" xml:space="preserve">              %@@@@@@@%#*###+-:-#%@%%%*%-</text>
+<text x="25" y="425.6" fill="#8b949e" xml:space="preserve">             +@@@%@@@@@@@@@@@%@@@@@@#=+@@</text>
+<text x="25" y="441.0" fill="#8b949e" xml:space="preserve">            .*#@@%#%@@@@@@@@@@@@@@%+--#@#</text>
+<text x="25" y="456.5" fill="#8b949e" xml:space="preserve">            +++#@@#**#%@@@@@@@%%*+---*@%=-</text>
+<text x="25" y="471.9" fill="#8b949e" xml:space="preserve">          :+++++#@#+===****==----:::+@@+++==-</text>
+<text x="25" y="487.3" fill="#8b949e" xml:space="preserve">     .-=*#+++++**%%*=-::::::::::::-*%@%++*=*#**+-</text>
+<text x="25" y="502.7" fill="#8b949e" xml:space="preserve"> :-+*##***=*++*+*#%%*-:.........:-#%%@@@#+++++=*+**=-.</text>
+<text x="25" y="518.2" fill="#8b949e" xml:space="preserve">*+===+**##+**#%@@@@%#*-..   ....-#%%#%@@@%#*=*+==++*+++</text>
+<text x="25" y="533.6" fill="#8b949e" xml:space="preserve">+*+==---=***#%%%@@@@#*=:.      :*%%##%%%##%#*=+=++++===</text>
+<text x="25" y="549.0" fill="#8b949e" xml:space="preserve">==***+=-:--=-==*#%@@%%#=::....:=##*#%#=--=+*==+**++****</text>
+<text x="560" y="45" xml:space="preserve"><tspan fill="#58a6ff">celestialcreator@github </tspan><tspan fill="#484f58">────────────────────────────────</tspan></text>
+<text x="560" y="81" xml:space="preserve"><tspan fill="#ffa657">OS: </tspan><tspan fill="#484f58">.............................. </tspan><tspan fill="#c9d1d9">Linux, macOS, Android</tspan></text>
+<text x="560" y="99" xml:space="preserve"><tspan fill="#ffa657">Uptime: </tspan><tspan fill="#484f58">................. </tspan><tspan fill="#c9d1d9">7y 10m 14d (in infrastructure)</tspan></text>
+<text x="560" y="117" xml:space="preserve"><tspan fill="#ffa657">Host: </tspan><tspan fill="#484f58">......................................... </tspan><tspan fill="#c9d1d9">Zosma AI</tspan></text>
+<text x="560" y="135" xml:space="preserve"><tspan fill="#ffa657">Kernel: </tspan><tspan fill="#484f58">........... </tspan><tspan fill="#c9d1d9">AI Research Engineer (Founding Team)</tspan></text>
+<text x="560" y="153" xml:space="preserve"><tspan fill="#ffa657">IDE: </tspan><tspan fill="#484f58">.................. </tspan><tspan fill="#c9d1d9">pi, Claude Code, Cursor, VS Code</tspan></text>
+<text x="560" y="189" xml:space="preserve"><tspan fill="#58a6ff">─ Cloud-Native </tspan><tspan fill="#484f58">─────────────────────────────────────────</tspan></text>
+<text x="560" y="207" xml:space="preserve"><tspan fill="#ffa657">Kubernetes: </tspan><tspan fill="#484f58">............... </tspan><tspan fill="#c9d1d9">k8s, Helm, ArgoCD, Kustomize</tspan></text>
+<text x="560" y="225" xml:space="preserve"><tspan fill="#ffa657">Networking: </tspan><tspan fill="#484f58">............ </tspan><tspan fill="#c9d1d9">Cilium, Istio, Traefik, Linkerd</tspan></text>
+<text x="560" y="243" xml:space="preserve"><tspan fill="#ffa657">Observability: </tspan><tspan fill="#484f58">......... </tspan><tspan fill="#c9d1d9">Prometheus, Grafana, OTel, Loki</tspan></text>
+<text x="560" y="261" xml:space="preserve"><tspan fill="#ffa657">IaC &amp; Cloud: </tspan><tspan fill="#484f58">. </tspan><tspan fill="#c9d1d9">Terraform, Terragrunt, Crossplane, AWS, GCP</tspan></text>
+<text x="560" y="297" xml:space="preserve"><tspan fill="#58a6ff">─ Dev </tspan><tspan fill="#484f58">──────────────────────────────────────────────────</tspan></text>
+<text x="560" y="315" xml:space="preserve"><tspan fill="#ffa657">Languages: </tspan><tspan fill="#484f58">............... </tspan><tspan fill="#c9d1d9">Python, Bash, TypeScript, HCL</tspan></text>
+<text x="560" y="333" xml:space="preserve"><tspan fill="#ffa657">Spoken: </tspan><tspan fill="#484f58">........................ </tspan><tspan fill="#c9d1d9">English, Hindi, Marathi</tspan></text>
+<text x="560" y="351" xml:space="preserve"><tspan fill="#ffa657">Hobbies: </tspan><tspan fill="#484f58">......................... </tspan><tspan fill="#c9d1d9">Video games, football</tspan></text>
+<text x="560" y="387" xml:space="preserve"><tspan fill="#58a6ff">─ Contact </tspan><tspan fill="#484f58">──────────────────────────────────────────────</tspan></text>
+<text x="560" y="405" xml:space="preserve"><tspan fill="#ffa657">Email: </tspan><tspan fill="#484f58">..................... </tspan><tspan fill="#c9d1d9">mhaskarakshay1992@gmail.com</tspan></text>
+<text x="560" y="423" xml:space="preserve"><tspan fill="#ffa657">LinkedIn: </tspan><tspan fill="#484f58">.................. </tspan><tspan fill="#c9d1d9">in/akshay-mhaskar-30a003160</tspan></text>
+<text x="560" y="441" xml:space="preserve"><tspan fill="#ffa657">Portfolio: </tspan><tspan fill="#484f58">................... </tspan><tspan fill="#c9d1d9">akshay-mhaskar.vercel.app</tspan></text>
+<text x="560" y="459" xml:space="preserve"><tspan fill="#ffa657">Hugging Face: </tspan><tspan fill="#484f58">.......... </tspan><tspan fill="#c9d1d9">huggingface.co/celestialcreator</tspan></text>
+<text x="560" y="495" xml:space="preserve"><tspan fill="#58a6ff">─ GitHub Stats </tspan><tspan fill="#484f58">─────────────────────────────────────────</tspan></text>
+<text x="560" y="513" xml:space="preserve"><tspan fill="#ffa657">Repos: </tspan><tspan fill="#484f58">.. </tspan><tspan fill="#c9d1d9">26 {Contributed: 28}</tspan><tspan fill="#484f58"> | </tspan><tspan fill="#ffa657">Stars: </tspan><tspan fill="#484f58">............. </tspan><tspan fill="#c9d1d9">37</tspan></text>
+<text x="560" y="531" xml:space="preserve"><tspan fill="#ffa657">Commits: </tspan><tspan fill="#484f58">............... </tspan><tspan fill="#c9d1d9">1,839</tspan><tspan fill="#484f58"> | </tspan><tspan fill="#ffa657">Followers: </tspan><tspan fill="#484f58">.......... </tspan><tspan fill="#c9d1d9">4</tspan></text>
+<text x="560" y="549" xml:space="preserve"><tspan fill="#ffa657">Lines of Code: </tspan><tspan fill="#c9d1d9">201,065</tspan><tspan fill="#484f58"> ( </tspan><tspan fill="#3fb950">1,179,856++</tspan><tspan fill="#484f58">, </tspan><tspan fill="#f85149">978,791--</tspan><tspan fill="#484f58"> )</tspan></text>
+</svg>
